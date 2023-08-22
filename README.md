@@ -12,7 +12,7 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-1. The repository has two files: 1. SurpriseHousing_RegressionAssignment.ipynb for the code solution with analysis to create the model for a bike sharing system.
+1. The repository has two files: 1. SurpriseHousing_RegressionAssignment.ipynb for the code solution with analysis to create the model for sale price prediction of a housing data.
 2. AnswersToSubjectiveQuestions.pdf, while covers answers to the questions asked in the assignment. 
 
 The dataset used for the analysis and model creation is train.csv, which is provided by the Upgrad.
